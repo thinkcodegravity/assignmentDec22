@@ -20,6 +20,7 @@ Does refers to methods of the class.
 	6) Tree
 		Has/instance variable  : leaves, branches, age
 		Does/methods  : throw oxygen, store carbon, provide shelter
-		
+	
+	One Question	
 	Hi Trainer, 
 	in OOP paradigm, there are two relationships such as HAS-A and IS-A. So, are DOES-A AND IS-A same? Thanks
