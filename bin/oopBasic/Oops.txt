@@ -1,0 +1,21 @@
+//Oops Fundamentals
+	//1) Product
+		Has/instance variable : Laptop,Lenvo,$1100,2
+		Does/methods : buy -200 sell - 1100 negotiate price-100
+	2) Car
+		Has/instance variable  : Sportscar Toyota ,30000,1
+		Does/methods  : comfortable size, buying price- 20000
+		selling price 30000 negotiate price -1000
+	3) Bank
+		Has/instance variable  : Name of bank, types of bank, states, address,contact 
+		Does/methods  :fill-up application, opening account, depositing money, issue credit card,
+	4) Television 
+		Has/instance variable  : HD quality, Samsung, size, 1000,1
+		Does/methods  :best sound quality,buying price 300 selling price 1000 negotiate price 200,
+	5) Fan
+		Has/instance variable  : table fan,electric, three button,200,per piece
+		Does/methods  : variable speed,comfortable, electricity, buying 200 selling 400
+	6) Tree
+		Has/instance variable  : seasonal, lot of kinds, winter summer
+		Does/methods  : give shadow, woods fresh air, prevent lanslides
+		
