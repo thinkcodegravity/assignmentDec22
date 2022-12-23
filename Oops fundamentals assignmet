@@ -9,14 +9,17 @@ Does refers to methods of the class.
 		Has/instance variable  :wheel, lights, engine
 		Does/methods  :drive, mileage, 
 	3) Bank
-		Has/instance variable  :
-		Does/methods  : 
+		Has/instance variable  : Account Number, routing number, user name
+		Does/methods  : deposit, transfer, withdraw
 	4) Television 
-		Has/instance variable  :
-		Does/methods  :
+		Has/instance variable  :screen, channel name, picture
+		Does/methods  :turn on or off, broadcast, move picture
 	5) Fan
-		Has/instance variable  : 
-		Does/methods  : 
+		Has/instance variable  : button, wings, blades
+		Does/methods  : turn on or off, increase speed, decrease speed
 	6) Tree
-		Has/instance variable  :
-		Does/methods  :
+		Has/instance variable  : leaves, branches, age
+		Does/methods  : throw oxygen, store carbon, provide shelter
+		
+	Hi Trainer, 
+	in OOP paradigm, there are two relationships such as HAS-A and IS-A. So, are DOES-A AND IS-A same? Thanks
