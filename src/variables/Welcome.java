@@ -2,7 +2,7 @@ package variables;
 
 public class Welcome {
 	
-	// hello world
+	// Hello world
 
 	public static void main(String[] args) {
 		System.out.println("Assignments here");
