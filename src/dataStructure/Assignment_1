@@ -1,0 +1,21 @@
+•	List following. FYI : 
+–	Has refers to variable/fields/data of a class, 
+–	Does refers to methods of the class.
+	1) Product
+		Has/instance variable : name, price, quantity
+		Does/methods : buy, sell, negotiate
+	2) Car
+		Has/instance variable  : driver, passenger, wheels, gas
+		Does/methods  : drive, travel
+	3) Bank
+		Has/instance variable  : customers, money
+		Does/methods  : deposit, withdraw, transfer, loan 
+	4) Television 
+		Has/instance variable  : remote, buttons, channels
+		Does/methods  : change channels, entertainment, 
+	5) Fan
+		Has/instance variable  : blades, buttons
+		Does/methods blows air, on, off
+	6) Tree
+		Has/instance variable  : branches, roots, trunks
+		Does/methods gives oxygen, gives food, shade
