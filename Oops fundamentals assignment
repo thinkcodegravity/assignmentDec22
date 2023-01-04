@@ -1,0 +1,27 @@
+Write java class for below example. 
+List following. FYI : 
+Has refers to variable/fields/data of a class, 
+Does refers to methods of the class.
+	1) Product
+		Has/instance variable : name, price, quantity
+		Does/methods : buy, sell, negotiate
+	2) Car
+	Color,drive,brake,steer,wheel,seat,
+		Has/instance variable  :brake,color,wheel,seat
+		Does/methods  :drive,brake,steer
+	3) Bank
+	Amount,deposit,account number, routing number, transfer, withdraw,loan
+		Has/instance variable  :account number, routing number,amount
+		Does/methods  : deposit,transfer,withdraw,loan
+	4) Television 
+	screen,channels, shows,play video, remote, 
+		Has/instance variable  :screen,channels,remote
+		Does/methods  :play video, play shows,
+	5) Fan
+	spin, airflow,motor,propeller,
+		Has/instance variable  : motor,propeller
+		Does/methods  : spin,airflow
+	6) Tree
+	wood,leaves,release oxygen,photosynthesis,
+		Has/instance variable  :wood,leaves
+		Does/methods  :release oxygen,photosynthesis
