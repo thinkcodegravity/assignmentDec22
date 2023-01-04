@@ -1,0 +1,55 @@
+All variables should have proper naming convention, java valid name , choose appropriate data types.
+Create variable … create separate java programs and include relevant variables below in those programs.
+
+to store Social security number.  Just do the declaration. 
+	int socialSecNumber;
+	
+To store Product Details. Declare and initialize on same line
+	String productDetails="Dual-Sport Motorcycle"
+	
+To store last name.. Declare and next line initialize.
+	String lastName;
+	lastName="Hufflepuff";
+	
+To Store customer online status. Just Declare
+	boolean customerOnline;
+	
+To store value of pi . Just declare
+	double valueOfPi;
+	
+To store customer phone number. Declare and initialize on same line
+	long customerPhoneNumber= "1234567890";
+	
+To store customer credit card details. Just declare
+	long customerCreditCard;
+	
+To store company contact info. Just Declare
+	String contactInfo;
+	
+To store height. . Declare and initialize on same line
+	float heightInCm = 190.64;
+	
+To store employee salary. Declare and next line initialize.
+	long empSalary;
+	empSalary= 3000000000;
+	
+To store add 2 cart details. Just Declare
+	String addToCartDetails;
+	
+To store payment details. Declare and next line initialize.
+	String paymentDetails;
+	paymentDetails="1234567890, 12/28, 230"
+	
+To store bank balance Just Declare
+	long bankBalance;
+	
+To store company name Declare and initialize on same line
+	String companyName="Dunder Mifflin Paper Company";
+	
+To store bank account number Just Declare
+	long bankAccountNumber;
+	
+To store shipping address Declare and initialize on same line
+	String shippingAddress="123 Abc Way, City, State, 12345";
+
+
