@@ -34,6 +34,5 @@ public boolean deposit(String name, BAC bankAccountNo, String Branch, float depo
 public AllElectricityPlan electricityPlan(int zipcode) {
 	AllElectricityPlan a= new AllElectricityPlan();
 	return a;
-	
+	}
 }
-
