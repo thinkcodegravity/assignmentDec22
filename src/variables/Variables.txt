@@ -5,7 +5,7 @@ to store Social security number.  Just do the declaration.
 	int socialSecNumber;
 	
 To store Product Details. Declare and initialize on same line
-	String productDetails="Dual-Sport Motorcycle"
+	String productDetails="Dual-Sport Motorcycle";
 	
 To store last name.. Declare and next line initialize.
 	String lastName;
@@ -21,13 +21,18 @@ To store customer phone number. Declare and initialize on same line
 	long customerPhoneNumber= "1234567890";
 	
 To store customer credit card details. Just declare
-	long customerCreditCard;
+	public class CC{
+		long num;
+		int seccode;
+		String expDate;
+	}
+	CC c = new CC;
 	
 To store company contact info. Just Declare
 	String contactInfo;
 	
 To store height. . Declare and initialize on same line
-	float heightInCm = 190.64;
+	float heightInCm = 190.64f;
 	
 To store employee salary. Declare and next line initialize.
 	long empSalary;
