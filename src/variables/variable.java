@@ -8,16 +8,14 @@ public class variable {
 	 String color="red";
 	 int price=40;
 	//To store last name.. Declare and next line initialize.
-	 String lastName;
-	 
-	 LastName = "Obrien";
+	 String lastName= "Obrien";
 	 
 	//To Store customer online status. Just Declare
 	 boolean OnlineStatus;
 	//To store value of pi . Just declare
-	long pi;
+	double pi;
 	//To store customer phone number. Declare and initialize on same line
-	long PhoneNumber=72305674674;
+	String phoneNumber="723056746";
 	//To store customer credit card details. Just declare
 	long CCNumber;
 	//To store company contact info. Just Declare
@@ -26,7 +24,7 @@ public class variable {
 	int height=22;
 	//To store employee salary. Declare and next line initialize.
 	float salary;
-	salary=50000.50;
+	salary=50000.50f;
 	//To store add 2 cart details. Just Declare
 	int cart1;
 	int cart2;
