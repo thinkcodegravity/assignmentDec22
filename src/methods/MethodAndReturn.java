@@ -31,7 +31,7 @@ public class MethodAndReturn {
 	
 	//Create a method that can calculate simple interest
 	public double interestDue(double principal, double interestRate, double time) {
-		double interest= principal*interestRate*time;
+		double interest= (principal*interestRate*time)/100;
 		return interest;
 	}
 	
