@@ -6,6 +6,8 @@ public class Welcome {
 	public static void main(String[] args) {
 		System.out.println("Assignments here");
 		System.out.println("Assignments here are");
+		System.out.println("Starting doing assignments");
+
 	}
 
 }
