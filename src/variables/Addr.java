@@ -2,14 +2,16 @@ package variables;
 
 public class Addr {
 
-	public static void main(String[] args) {
-		String streetName;
+	 String c= "honeysuckle";
 		int StreetNumber;
 		String City;
 		String state;
-		int zip;
+		int zip=702;{
 		
-
+		
+		
+System.out.println(c);}
 	}
 
-}
+
+

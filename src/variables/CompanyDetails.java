@@ -1,13 +1,16 @@
 package variables;
 
 public class CompanyDetails {
+	
+	public static void main (String[] args) {
 
-	public static void main(String[] args) {
-		
-		String CompanyName;
+        String CompanyName;
 		int CompanyPhNum;
-		Addr address;
+		Addr address=new Addr();
+		
+		System.out.println(address.c);
 		
 	}
-
 }
+
+
