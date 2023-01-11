@@ -8,6 +8,9 @@ public class Rectangle {
 		int area= length*breadth;
 		return area;
 		
+	
+	
+	}
 	}
 
-}
+
