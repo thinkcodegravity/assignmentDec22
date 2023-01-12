@@ -2,9 +2,12 @@ package controlFlows;
 
 public class Program {
 	public static void main(String[] args) {
+		
+		/*
 		ForIfDemo fid = new ForIfDemo();
-		//fid.takeNumber();
-	
+		fid.takeNumber();
+		*/
+		
 		/*
 		RetrieveDetails details = new RetrieveDetails();
 		details.retrieveUserId();
