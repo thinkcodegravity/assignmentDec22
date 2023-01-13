@@ -21,6 +21,7 @@ public class QueueData {
 			System.out.println("Queue not empty");
 		
 		System.out.println("Size of queue: "+queue.size());
+		
 	}
 	
 }
