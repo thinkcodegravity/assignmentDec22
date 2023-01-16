@@ -1,0 +1,40 @@
+OOPS Fundamental
+HAS: variables, DOES: METHODS
+
+
+Car
+	Has: Gas tank, tires, steering wheel, brakes, door, trunk, seatbelt
+	Does: park, reverse, drive, useBrake, steer
+	
+Bank
+	Has: accountName, accountNumber, routingNumber, accountBalance
+	Does: depositFunds, withdrawFund, checkAccountBalance,
+
+	public void withdraw(double withdrawAmount, double accountBalance){
+		withdrawAmount= 1231.123
+		if (accountBalance-withdrawAmount > 0){ 
+			accountBalance= accountBalance-withdrawAmount;
+		}else{
+		 System.out.println("Not Enough Balance");
+		}
+	}	
+		
+	
+Television
+	Has: screen, speakers, bluetooth, channels
+	Does: increaseVolume, decreaseVolume, changeChannel, connectInputDevice
+	
+Fan
+	Has: onSwitch, offSwitch, speedControlSwitch, fanBlades
+	Does: turnOn, turnOff, increaseSpeed, decreaseSpeed
+
+Tree
+	Has: leaves,twigs, branches, trunk, roots, nests
+	Does: filterAir, filterWater, provideShelter, controlFlooding, provideCooling
+	
+
+YouTube
+	Has: userAccounts, userSubscriptions, subscribeButton, userLibrary, history,
+		searchBar, videos, likeButton, commentSection
+	Does: userSignIn, userSignOut, subscribeToAccount, unsubsribeToAccount, checkWatchHistory,
+		performSearch, manageSubscriptions,
